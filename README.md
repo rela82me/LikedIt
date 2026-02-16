@@ -1,4 +1,4 @@
-# 🎵 LikedIt: Spotify Manager
+# 🎵 LikedIt - Spotify Library Manager
 
 A collection of Python tools to manage, back up, and analyze your Spotify Liked Songs. 
 
