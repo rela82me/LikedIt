@@ -1,0 +1,18 @@
+# Credentials
+.env
+
+# Spotify Cache files
+.cache*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Excel exports (optional, but often good to ignore if they contain personal data)
+*.xlsx
